@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-react-auth-shared).
+
 # React Auth Shared
 
 ![npm (scoped)](https://img.shields.io/npm/v/@brightlayer-ui/react-auth-shared)
